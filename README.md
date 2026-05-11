@@ -1,1 +1,0 @@
-# checkpoint-git-c-pedro_castro
